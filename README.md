@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Frontend web developer**
 
-- 🌱 I’m currently learning **Frontend web developer**
+- 🌱 I’m currently learning **cyber security , pentration testing**
 
-- 💬 Ask me about **HTML,CSS,js and python**
+- 💬 Ask me about **HTML5,CSS3, javascript, php, mysql, oracle and python**
 
-- 📫 How to reach me **iamgautam2000@gmail.com**
+- 📫 How to reach me **gautaminfotech05@gmil.com**
 
 - ⚡ Fun fact **I am Bug programmer**
 
