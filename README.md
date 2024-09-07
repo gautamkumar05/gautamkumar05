@@ -31,5 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamkumar05&show_icons=true&locale=en" alt="gautamkumar05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamkumar05&" alt="gautamkumar05" /></p>
-<H1>GAUTAM KUMAR <H1>
+
 
