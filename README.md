@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/gautam kumar" target="blank"><img src="https://img.shields.io/twitter/follow/gautam kumar?logo=twitter&style=for-the-badge" alt="gautam kumar" /></a> </p>
 
-- 🔭 I’m currently working on **Operational Analyst**
+- 🔭 I’m currently working on **DATA ANALYST (Operational)**
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Power BI, EXCEL, TABLEAU, MYSQL, and python**
+- 💬 Ask me about **Power BI, EXCEL, TABLEAU, MYSQL, AND PYTHON**
 
 - 📫 How to reach me **gautaminfotech05@gmil.com**
 
