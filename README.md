@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Power BI, EXCEL, TABLEAU, MYSQL, AND PYTHON**
 
-- 📫 How to reach me **da.gautamkumar@gmil.com**
+- 📫 How to reach me **da.gautamkumar@gmail.com**
 
 - ⚡ Fun fact **I am Data analyst.**
 
